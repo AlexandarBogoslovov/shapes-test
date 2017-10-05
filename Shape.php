@@ -8,7 +8,7 @@
 
 abstract class Shape
 {
-    const SHAPE_TYPE = '1';
+    const SHAPE_TYPE = '10';
     public $name;
     protected $length;
     protected $width;
