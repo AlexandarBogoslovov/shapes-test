@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f2f04abc-2aa3-482c-a95c-74cee0d53bd1" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/circle.php" afterPath="$PROJECT_DIR$/circle.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Rectangle.php" afterPath="$PROJECT_DIR$/Rectangle.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -27,21 +26,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="circle.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="circle.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/circle.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="66">
-              <caret line="11" column="28" lean-forward="true" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
+            <state relative-caret-position="330">
+              <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Rectangle.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Rectangle.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Rectangle.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="990">
-              <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+            <state relative-caret-position="468">
+              <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -55,9 +54,9 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Rectangle.php" />
         <option value="$PROJECT_DIR$/Shape.php" />
         <option value="$PROJECT_DIR$/circle.php" />
+        <option value="$PROJECT_DIR$/Rectangle.php" />
       </list>
     </option>
   </component>
@@ -142,12 +141,12 @@
       <workItem from="1507106182195" duration="78000" />
       <workItem from="1507106271056" duration="10202000" />
       <workItem from="1507204161674" duration="1628000" />
-      <workItem from="1507277482474" duration="1344000" />
+      <workItem from="1507277482474" duration="1713000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20759000" />
+    <option name="totallyTimeSpent" value="21128000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1911" y="-4" width="1938" height="1058" extended-state="6" />
@@ -267,14 +266,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Rectangle.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="990">
-          <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Shape.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="288">
@@ -285,8 +276,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/circle.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="11" column="28" lean-forward="true" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
+        <state relative-caret-position="330">
+          <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Rectangle.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
           <folding />
         </state>
       </provider>

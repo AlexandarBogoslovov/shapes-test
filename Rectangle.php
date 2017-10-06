@@ -9,7 +9,7 @@ include ("Shape.php");
 
 class Rectangle extends Shape
 {
-    const SHAPE_TYPE = '2';
+    const SHAPE_TYPE = '25';
     public $area;
 
     public function area()
