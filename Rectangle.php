@@ -24,7 +24,7 @@ class Rectangle extends Shape
 
 }
 
-$rectangle = new Rectangle(8,10);
+$rectangle = new Rectangle(65,50);
 $rectangle->area();
 $Area = $rectangle->getArea();
 echo $Area;
