@@ -9,7 +9,7 @@
 include ("Shape.php");
 class circle extends Shape
 {
-    const SHAPE_TYPE = '32';
+    const SHAPE_TYPE = '34';
     protected $radius;
     public $area;
 
